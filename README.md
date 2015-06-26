@@ -1,2 +1,4 @@
 # hello_world
-test repo
+test repo 
+hello world 
+first commite
